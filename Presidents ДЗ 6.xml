@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Presidents>
+	<President>
+		<name>George Washington</name>
+		<Began>1789</Began>
+		<Ended>1797</Ended>
+		<Party>Unaffiliated</Party>
+		<Vice-President>John Adams</Vice-President>
+		<Presidency>2865</Presidency>
+
+	</President>
+
+<President>
+		<name>John Adams</name>
+		<Began>1797</Began>
+		<Ended>1801</Ended>
+		<Party>Federalist</Party>
+		<Vice-President>Thomas Jefferson</Vice-President>
+		<Presidency>1460</Presidency>
+
+	</President>
+
+<President>
+		<name>Thomas Jefferson</name>
+		<Began>1801</Began>
+		<Ended>1809</Ended>
+		<Party>Democratic-Republican</Party>
+		<Vice-President>Aaron Burr/George Clinton</Vice-President>
+		<Presidency>2922</Presidency>
+
+	</President>
+
+	<President>
+		<name>James Madison</name>
+		<Began>1809</Began>
+		<Ended>1817</Ended>
+		<Party>Democratic-Republican</Party>
+		<Vice-President>Elbridge Gerry</Vice-President>
+		<Presidency>2922</Presidency>
+
+	</President>
+
+	<President>
+		<name>James Monroe</name>
+		<Began>1817</Began>
+		<Ended>1825</Ended>
+		<Party>Democratic-Republican</Party>
+		<Vice-President>Daniel D. Tompkins</Vice-President>
+		<Presidency>2922</Presidency>
+
+	</President>
+
+	
+</Presidents>

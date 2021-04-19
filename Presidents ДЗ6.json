@@ -1,0 +1,48 @@
+{
+	"Presidents": [
+
+		{
+			"Name": "George Washington",
+			"Began": "1789",
+			"Ended": "1797",
+			"Party": "Unaffiliated",
+			"Vice-President": "John Adams",
+			"Presidency": "2865"
+
+		},
+		{
+			"Name": "John Adams",
+			"Began": "1797",
+			"Ended": "1801",
+			"Party": "Federalist",
+			"Vice-President": "Thomas Jefferson",
+			"Presidency": "1460"
+
+		},
+		{
+			"Name": "Thomas Jefferson",
+			"Began": "1801",
+			"Ended": "1809",
+			"Party": "Democratic-Republican",
+			"Vice-President": "Aaron Burr/George Clinton",
+			"Presidency": "2922"
+		},
+		{
+			"Name": "James Madison",
+			"Began": "1809",
+			"Ended": "1817",
+			"Party": "Democratic-Republican",
+			"Vice-President": "Elbridge Gerry",
+			"Presidency": "2922"
+
+		},
+		{
+			"Name": "James Monroe",
+			"Began": "1817",
+			"Ended": "1825",
+			"Party": "Democratic-Republican",
+			"Vice-President": "Daniel D. Tompkins",
+			"Presidency": "2922"
+		}
+	]
+}
